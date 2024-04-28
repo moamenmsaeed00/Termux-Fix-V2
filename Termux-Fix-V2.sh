@@ -74,6 +74,7 @@ pip install mechanize
 pip install wordlist
 pip install youtube-dl
 pip install argument
+pip install ipywidgets
 pip install bundle
 gem install bundle
 gem install bundler
