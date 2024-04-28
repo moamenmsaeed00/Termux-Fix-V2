@@ -46,6 +46,7 @@ pkg install x11-repo -y
 pkg install ruby -y
 pkg install figlet -y
 pkg install wget -y
+pkg install curl -y
 pkg install nano -y
 pkg install toilet -y
 pkg install locate -y
@@ -71,6 +72,9 @@ pip install --upgrade pip
 pip install wget
 pip install requests
 pip install mechanize
+pip install bs4
+pip install rich
+pip install future
 pip install wordlist
 pip install youtube-dl
 pip install argument
