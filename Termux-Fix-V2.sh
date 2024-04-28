@@ -13,7 +13,6 @@ echo -e $red     "Termux Fix By Elmon"
 echo
 echo -e $cyan    "For Contact @M_M_S3 ~ @FCTFT ~"    
 echo
-echo -e $red    "إذا كنت مبتدئ اختر ١ أو إختر النظام الذي تريده" 
 echo -e $red     "If you are a beginner, choose 1 or choose the system you want"
 echo
 echo -e $green   "1- Termux"
